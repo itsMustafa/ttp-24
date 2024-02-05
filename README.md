@@ -5,6 +5,7 @@
 - BMW
 - Honda
 - Hero
+- Yamaha
 
 ## 4 Wheeler Manufacturers
 
