@@ -5,3 +5,4 @@
 - BMW
 - Honda
 - Hero
+- Yamaha
