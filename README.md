@@ -12,3 +12,4 @@
 - Ford
 - Mercedes
 - GM
+- Kia
