@@ -14,3 +14,4 @@
 - GM
 - Kia
 - Tata
+- Mahindra
