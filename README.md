@@ -13,6 +13,5 @@
 - Mercedes
 - GM
 - Kia
-- Tata
 - Mahindra
 - Hyundai
