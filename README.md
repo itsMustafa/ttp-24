@@ -6,7 +6,6 @@
 - Honda
 - Hero
 - Yamaha
-- Harley Davidson
 
 ## 4 Wheeler Manufacturers
 
